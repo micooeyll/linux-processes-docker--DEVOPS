@@ -55,10 +55,10 @@ When containerized:
 
 ## Project Structure
 
-processanalyze/
-├── processanalyze.c
-├── Dockerfile
-└── README.md
+processanalyze/ ;
+- processanalyze.c
+-  Dockerfile
+-  README.md
 
 ---
 
